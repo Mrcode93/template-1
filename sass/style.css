@@ -368,11 +368,11 @@ section.skills .experience {
   justify-content: center;
   flex-direction: column;
   height: 250px;
-  color: rgba(0, 0, 0, 0.601);
+  color: crimson;
   border-radius: 10px;
 }
 section.skills .experience span {
-  color: rgba(255, 255, 255, 0.562);
+  color: crimson;
   font-size: 6rem;
 }
 section.skills .skill {

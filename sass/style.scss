@@ -312,13 +312,10 @@ section.skills {
         flex-direction: column;
         height: 250px;
         & span {
-            color: rgba(255, 255, 255, 0.562);
+            color: crimson;
             font-size: 6rem;
         }
-        color: rgba(0,
-        0,
-        0,
-        0.601);
+        color: crimson;
         border-radius: 10px;
     }
     & .skill {
